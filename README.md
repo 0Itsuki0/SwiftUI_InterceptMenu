@@ -1,7 +1,7 @@
 # SwiftUI_InterceptMenu
 A demo of intercepting menu/context menu to perform simultaneous actions or temporary disablement.
 
-For more details, please refer to my blog [SwiftUI: Intercept-able Picker / Menu / Context Menu]()
+For more details, please refer to my blog [SwiftUI: Intercept-able Picker / Menu / Context Menu](https://medium.com/@itsuki.enjoy/swiftui-intercept-able-picker-menu-context-menu-efc9e562c8ea)
 
 Sample Usage:
 
